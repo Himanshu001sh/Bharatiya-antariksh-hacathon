@@ -76,18 +76,5 @@ SHAP Explainability
 Health Impact Analysis
 Optimization Results
 
-## Project Workflow
-Satellite Data
-      ↓
-Feature Engineering
-      ↓
-Random Forest Prediction
-      ↓
-SHAP Explainability
-      ↓
-Heat Risk Assessment
-      ↓
-Solution Recommendation
-      ↓
-NSGA-II Optimization
+
 
